@@ -1,0 +1,41 @@
+<script type='application/ld+json'>
+		{
+		  "@context": "https://schema.org/",
+		  "@type": "LocalBusiness",
+		  "name": "Xưởng in vải Sắc Màu",
+		  "url": "https://invaisacmau.com",
+		  "logo": "https://invaisacmau.com/uploads/image/logo.png",
+		  "image": "https://invaisacmau.com/uploads/image/xuong-in-vai-sac-mau.jpg",
+		  "description": "Xưởng in vải Sắc Màu chuyên cung cấp dịch vụ in chuyển nhiệt lên vải với giá rẻ tại TPHCM, nhận gia công theo yêu cầu, trên nhiều chất liệu vải khác nhau như vải thun, vải poly, vải lụa ...",
+		  "email": "mailto:xuonginvaisacmau@gmail.com",
+		  "telephone": "+84704703727",
+		   "priceRange": "1$ - 2$",
+		  "address": {
+			 "@type": "PostalAddress",
+			 "streetAddress": "20/62 Bờ Bao Tân Thắng, Phường Sơn Kỳ",
+			 "addressLocality": "Quận Tân phú",
+			 "addressRegion": "Hồ Chí Minh",
+			 "postalCode": "700000",
+             "addressCountry":{
+             "@type":"Country",
+             "name": "Việt Nam"
+			}
+		  },
+		  "hasMap": "https://www.google.com/maps/place/X%C6%B0%E1%BB%9Fng+in+v%E1%BA%A3i+S%E1%BA%AFc+M%C3%A0u/@10.807257,106.619317,13z/data=!4m5!3m4!1s0x0:0xe6a9de3154ccb16!8m2!3d10.807257!4d106.6193169?hl=vi&shorturl=1",
+		   "openingHours": "Mo 07:30-17:30 Tu 07:30-17:30 We 07:30-17:30 Th 07:30-17:30 Fr 07:30-17:30 Sa 07:30-17:30 Su 08:30-16:30",
+           "geo": {
+           "@type": "GeoCoordinates",
+           "latitude": "10.807257",
+           "longitude": "106.619317"
+		  },
+           "sameAs": [
+			 "https://www.facebook.com/invaisacmau",
+			 "https://www.instagram.com/invaisacmau/",
+			 "https://www.pinterest.com/invaisacmau/",
+			 "https://twitter.com/invaisacmau",
+			 "https://www.flickr.com/people/invaisacmau/",
+			 "https://invaisacmau.tumblr.com/",
+			 "https://trello.com/invaisacmau"
+		  ]
+		}
+		</script>
